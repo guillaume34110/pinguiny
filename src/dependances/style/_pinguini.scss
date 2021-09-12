@@ -1,0 +1,19 @@
+.main {
+    display :flex ;
+    flex-direction: column;
+    height : 100vh;
+    width : 100vw;
+    justify-content: center;
+    align-items: center;
+}
+.pinguigny-btn{
+    font-style: $font-1;
+    background-color:$color-1;
+    padding: 10px;
+    border-radius: 5px ;
+    border : $color-5;
+    &:hover{
+        cursor: pointer;
+       background-color:$color-6
+    }
+}
