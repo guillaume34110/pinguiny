@@ -1,6 +1,6 @@
 # Small pinguigny generator build with react and canvas
 
-See Demo :
+See Demo : https://guillaume34110.github.io/pinguiny//
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
