@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pinguiny/static/css/main.6ddfd932.chunk.css",
+    "main.css": "/pinguiny/static/css/main.7f1c78d4.chunk.css",
     "main.js": "/pinguiny/static/js/main.c70b8be3.chunk.js",
     "main.js.map": "/pinguiny/static/js/main.c70b8be3.chunk.js.map",
     "runtime-main.js": "/pinguiny/static/js/runtime-main.b72004c6.js",
@@ -10,13 +10,13 @@
     "static/js/3.5f5f4af8.chunk.js": "/pinguiny/static/js/3.5f5f4af8.chunk.js",
     "static/js/3.5f5f4af8.chunk.js.map": "/pinguiny/static/js/3.5f5f4af8.chunk.js.map",
     "index.html": "/pinguiny/index.html",
-    "static/css/main.6ddfd932.chunk.css.map": "/pinguiny/static/css/main.6ddfd932.chunk.css.map",
+    "static/css/main.7f1c78d4.chunk.css.map": "/pinguiny/static/css/main.7f1c78d4.chunk.css.map",
     "static/js/2.2e97d242.chunk.js.LICENSE.txt": "/pinguiny/static/js/2.2e97d242.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b72004c6.js",
     "static/js/2.2e97d242.chunk.js",
-    "static/css/main.6ddfd932.chunk.css",
+    "static/css/main.7f1c78d4.chunk.css",
     "static/js/main.c70b8be3.chunk.js"
   ]
 }
